@@ -1,2 +1,2 @@
 # Hangman-Project
-I have made a hangman game using python language.
+Hey, I have made a hangman game using python language.
